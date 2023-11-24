@@ -10,7 +10,7 @@ Exemplo de codigos python
     ### Clonando
 
     ```bash
-    git clone git@github.com:cleibp/code-javascript.git
+    git clone git@github.com:cleibp/code-python.git
     ```
 1. Download:
     ### Download Manual
@@ -39,9 +39,7 @@ Exemplo de codigos python
 .
 ├── gitignore
 ├── README.md
-├── index.js
-├── package-lock.json
-└── package.json
+└── pmain.py
 ```
 
 ## 👋🏽 DEMO
